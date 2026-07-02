@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "의료분쟁에 대한 정보"
+  description: "A blog about medical disputes, mediation, arbitration, and healthcare data."
+  site-url: https://your-website-url.example.com
+
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      # - icon: github
+      #   href: https://github.com/
+      # - icon: bluesky
+      #   href: https://bsky.app/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    code-fold: true
+
+editor: visual
+
+
+
+
+
