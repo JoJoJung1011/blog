@@ -59,7 +59,7 @@ title-block-banner: true
 - 신청인, 피신청인에게 통보
 - 조정성립 또는 조정 불성립
 
-<img src="조정절차.png" style="max-width: 100%; height: auto;"/>
+<img src="mediation.png" style="max-width: 100%; height: auto;"/>
 
 ### **조정신청**
 
@@ -93,7 +93,7 @@ title-block-banner: true
 
 조정절차가 개시되면 의료중재원의 감정부가 의료사고에 대한 조사와 감정을 진행할 수 있다.
 
-<img src="감정절차.png" style="max-width: 100%; height: auto;"/>
+<img src="bbb.png" style="max-width: 100%; height: auto;"/>
 
 **조사와 감정 과정에서 주로 보는 것은 다음과 같다:**
 
@@ -133,7 +133,7 @@ title-block-banner: true
 - 화해중재판정 또는 중재판정
 - 당사자에게 통보
 
-<img src="중재절차.png" style="max-width: 100%; height: auto;"/>
+<img src="arbitration.png" style="max-width: 100%; height: auto;"/>
 
 ### **중재합의**
 
@@ -171,7 +171,7 @@ title-block-banner: true
 
 반면 수탁감정은 조정/중재 절차 중 이뤄지는 감정이 아닌 법원, 경찰, 검찰 같은 외부 기관이 의료중재원에 감정을 맡기는 것이다.
 
-<img src="수탁감정.png" style="max-width: 100%; height: auto;"/>
+<img src="ccc.png" style="max-width: 100%; height: auto;"/>
 
 ## 공개 감정사례를 통해 본 사건 기록 구조
 
@@ -179,9 +179,9 @@ title-block-banner: true
 
 공개 감정사례를 보면 의료분쟁 사건이 마냥 간단하지 않고, 사건 개요, 치료 과정, 양측 주장, 감정 의견, 조정 결과 등으로 정리되어 있다는 것을 확인할 수 있다.
 
-<img src="예시 part1.png" style="max-width: 100%; height: auto;"/>
+<img src="example1.png" style="max-width: 100%; height: auto;"/>
 
-<img src="예시 part2.png" style="max-width: 100%; height: auto;"/>
+<img src="example2.png" style="max-width: 100%; height: auto;"/>
 
 더 자세한 내용은 [의료중재원 공개 감정사례](https://www.k-medi.or.kr/web/lay1/bbs/S1T27C96/A/25/view.do?article_seq=12822&cpage=1&rows=10&condition=&keyword=)에서 확인할 수 있다. 
 
